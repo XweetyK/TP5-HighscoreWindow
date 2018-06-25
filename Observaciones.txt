@@ -1,0 +1,2 @@
+Observaciones:
+La libreria es bastante simple de usar, tuve que agregar la funcion "clearList"

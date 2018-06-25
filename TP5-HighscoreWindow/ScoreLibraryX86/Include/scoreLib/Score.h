@@ -23,5 +23,6 @@ namespace score
 		void sortList();
 		Score getHighScore();
 		list<Score> returnScoreList() const;
+		void clearList();
 	};
 }
