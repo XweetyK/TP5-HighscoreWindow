@@ -1,2 +1,3 @@
 Observaciones:
-La libreria es bastante simple de usar, tuve que agregar la funcion "clearList"
+-La libreria es bastante sencilla de usar, no tuve mas problemas ademas de tener
+ que agregar la funcion "clearList".
