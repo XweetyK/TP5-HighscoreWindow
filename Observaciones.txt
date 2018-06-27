@@ -1,3 +1,8 @@
 Observaciones:
 -La libreria es bastante sencilla de usar, no tuve mas problemas ademas de tener
  que agregar la funcion "clearList".
+
+-Tuve muchos problemas con el proyecto, no pude moldear FLTK a mi necesidad y ya era muy 
+tarde para probar con otras librerias.
+La lista de Highscore esta implementada, puede comprobarse su funcionalidad y uso de la ventana en el modo debug.
+Mas detalles de los errores que surgieron comentados en el codigo.
